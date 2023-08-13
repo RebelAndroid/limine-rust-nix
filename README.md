@@ -1,6 +1,6 @@
 # Limine Rust Bare Bones
 
-This repository adds a nix flake to the limine rust barebones template.
+This repository adds a nix flake to the [limine rust barebones template](https://github.com/limine-bootloader/limine-rust-barebones).
 
 ## How to use
 Use `nix develop` to enter the development shell. Then use make as normal (you probably want `make run-uefi`).
